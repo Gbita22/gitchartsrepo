@@ -1,0 +1,3 @@
+[submodule "gitchartsrepo"]
+	path = gitchartsrepo
+	url = https://github.com/Gbita22/gitchartsrepo.git
